@@ -1,0 +1,5 @@
+git add -  Add a file to the repository 
+git commit -m "message" - add a message to the added file and commit
+git push - upload the added files to the remote repository
+git pull - Fetch from the remote repository
+git merge - Merges changes from the specified branch into the current branch
